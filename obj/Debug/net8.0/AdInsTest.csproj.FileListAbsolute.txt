@@ -1,0 +1,14 @@
+D:\Software Enginer\Tes\AdIns\AdInsTest\bin\Debug\net8.0\AdInsTest.exe
+D:\Software Enginer\Tes\AdIns\AdInsTest\bin\Debug\net8.0\AdInsTest.deps.json
+D:\Software Enginer\Tes\AdIns\AdInsTest\bin\Debug\net8.0\AdInsTest.runtimeconfig.json
+D:\Software Enginer\Tes\AdIns\AdInsTest\bin\Debug\net8.0\AdInsTest.dll
+D:\Software Enginer\Tes\AdIns\AdInsTest\bin\Debug\net8.0\AdInsTest.pdb
+D:\Software Enginer\Tes\AdIns\AdInsTest\obj\Debug\net8.0\AdInsTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software Enginer\Tes\AdIns\AdInsTest\obj\Debug\net8.0\AdInsTest.AssemblyInfoInputs.cache
+D:\Software Enginer\Tes\AdIns\AdInsTest\obj\Debug\net8.0\AdInsTest.AssemblyInfo.cs
+D:\Software Enginer\Tes\AdIns\AdInsTest\obj\Debug\net8.0\AdInsTest.csproj.CoreCompileInputs.cache
+D:\Software Enginer\Tes\AdIns\AdInsTest\obj\Debug\net8.0\AdInsTest.dll
+D:\Software Enginer\Tes\AdIns\AdInsTest\obj\Debug\net8.0\refint\AdInsTest.dll
+D:\Software Enginer\Tes\AdIns\AdInsTest\obj\Debug\net8.0\AdInsTest.pdb
+D:\Software Enginer\Tes\AdIns\AdInsTest\obj\Debug\net8.0\AdInsTest.genruntimeconfig.cache
+D:\Software Enginer\Tes\AdIns\AdInsTest\obj\Debug\net8.0\ref\AdInsTest.dll
